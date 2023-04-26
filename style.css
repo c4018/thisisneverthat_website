@@ -121,7 +121,7 @@ hr {
 }
 #navbar{
     border:1px;
-    border-bottom:none;
+/*     border-bottom:none; */
     color: #fff;
     list-style: none;
     display: flex;
